@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ **2. Claims Processing System – README Summary**
+
 
 ```markdown
 # Claims Processing System
