@@ -3,7 +3,7 @@
 
 
 
-```markdown
+
 # Claims Processing System
 
 ## Overview
